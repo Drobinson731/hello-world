@@ -1,2 +1,2 @@
-# hello-world
-intro to me, myself and i
+# hello-world :earth_americas:
+first repo :tada:
