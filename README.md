@@ -1,7 +1,7 @@
 # hello-world :earth_americas:
 Welcome to my first repo :tada:
 
-Im very fortunate to be a new hubber and learn more about **GitHub** and the culture. 
+Im very fortunate to join as a new program manager and learn more about **GitHub** and what it means to be a **Hubber**. 
 
 my name is **Darryl** nicknames include: _drob_, _batman_, or some close friends call me by my middle name _adonis_
 
